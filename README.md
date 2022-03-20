@@ -2,7 +2,7 @@
 
 PROYECTO 2ºTRIMESTRE -->
 
-Validación Index --> ![index](/logotipo/valiindex.png)
+Validación Index --> ![index](https://github.com/brianllj03/ProyectoBootstrap/blob/main/logotipo/valiindex.PNG)
 
 Validación Adidas-->
 
