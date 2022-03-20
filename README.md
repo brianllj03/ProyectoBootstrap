@@ -2,7 +2,7 @@
 
 PROYECTO 2ºTRIMESTRE -->
 
-Validación Index --> valiindex.png
+Validación Index --> ![Tux](/logotipo/valiindex.png)
 
 Validación Adidas-->
 
