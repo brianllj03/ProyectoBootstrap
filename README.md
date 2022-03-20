@@ -1,6 +1,6 @@
 # ProyectoBootstrap
 
-PROYECTO 2ºTRIMESTRE -->
+PROYECTO 2ºTRIMESTRE --> https://zapas.w3spaces.com
 
 Validación Index --> ![index](https://github.com/brianllj03/ProyectoBootstrap/blob/main/logotipo/valiindex.PNG)
 
