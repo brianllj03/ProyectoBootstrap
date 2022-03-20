@@ -2,7 +2,7 @@
 
 PROYECTO 2ºTRIMESTRE -->
 
-Validación Index -->
+Validación Index --> valiindex.html
 Validación Adidas-->
 Validación Converse-->
 Validación JohnSmith-->
